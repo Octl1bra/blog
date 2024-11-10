@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "rss"
 name = "RSS"
-url = "https://libra.wiki/index.xml"
+url = "https://libra.wiki/post/index.xml"
 
 [social.params]
 icon = "rss"
