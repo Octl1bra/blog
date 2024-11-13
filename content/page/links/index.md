@@ -6,6 +6,10 @@ links:
     description: 0rek1
     website: https://oreki.cool/
     image: https://cdn.bonjour.bio/2094/2024-08-01_00-07-50.jpeg
+  - title: 冷罗KS
+    description: 是网安大手子哥哥！| 爱音乐 爱生活 爱自己
+    website: https://ksroido.art/
+    image: https://cdn.jsdelivr.net/gh/ksroido/avatar@main/avatar.png
   - title: KumaTea Blog
     description: 纯恨蓝毛哥哥可爱捏
     website: https://blog.kmtea.eu/
