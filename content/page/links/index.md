@@ -14,6 +14,10 @@ links:
     description: 纯恨蓝毛哥哥可爱捏
     website: https://blog.kmtea.eu/
     image: https://kmtea.eu/res/2206/avatar.png
+  - title: SkyWT 天空随想
+    description: 很厉害的开发者哥哥！
+    website: https://skywt.cn/
+    image: https://skywt.cn/avatar.png
   - title: 朱先森的笔记
     description: 很酷的小男生
     website: https://www.mengxiblog.top/
