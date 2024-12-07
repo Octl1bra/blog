@@ -7,9 +7,13 @@ links:
     website: https://oreki.cool/
     image: https://cdn.bonjour.bio/2094/2024-08-01_00-07-50.jpeg
   - title: 冷罗KS
-    description: 是网安大手子哥哥！| 爱音乐 爱生活 爱自己
+    description: 是网安大手子哥哥! | 爱音乐 爱生活 爱自己
     website: https://ksroido.art/
     image: https://cdn.jsdelivr.net/gh/ksroido/avatar@main/avatar.png
+  - title: 三咲智子 Kevin Deng
+    description: 小三哥哥! | Gen Z & Full Stack Developer 🏳️‍🌈
+    website: https://xlog.sxzz.moe/
+    image: https://avatars.githubusercontent.com/u/6481596?v=4
   - title: KumaTea Blog
     description: 纯恨蓝毛哥哥可爱捏
     website: https://blog.kmtea.eu/
@@ -39,9 +43,10 @@ links:
     website: https://blog.lind0.space/
     image: https://avatars.githubusercontent.com/u/19368368?v=4
   - title: IcyBlog
-    description: 蓝冰|IcyBlog Share My Life
+    description: 蓝冰 | IcyBlog Share My Life
     website: https://blog.icybit.cn/
     image: https://static.ick.moe/images/avatar.png
+license: false
 menu:
     main: 
         weight: 4
