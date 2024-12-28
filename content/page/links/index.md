@@ -26,10 +26,6 @@ links:
     description: 很酷的小男生
     website: https://www.mengxiblog.top/
     image: https://cn-sh.static.nextsay.cn/IMAGE/avatar/zhunote.jpg
-  - title: fzf404
-    description: 前男友。
-    website: https://fzf404.art/
-    image: https://img.fzf404.art/avatar.webp
   - title: 自在废物
     description: 长野！
     website: https://rabithua.club/
