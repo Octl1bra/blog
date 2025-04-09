@@ -42,6 +42,10 @@ links:
     description: 蓝冰 | IcyBlog Share My Life
     website: https://blog.icybit.cn/
     image: https://static.ick.moe/images/avatar.png
+  - title: XCちゃん
+    description: 小男高...嘿嘿...
+    website: https://spacexc.net
+    image: https://avatars.githubusercontent.com/u/60663465?v=4
 license: false
 menu:
     main: 
