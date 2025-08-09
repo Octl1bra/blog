@@ -45,7 +45,7 @@ links:
   - title: IcyBlog
     description: 蓝冰 | IcyBlog Share My Life
     website: https://blog.icybit.cn/
-    image: https://static.ick.moe/images/avatar.png
+    image: https://q.qlogo.cn/qqapp/102131907/2DC08A0B87B42FC467242BED25261546/100
 license: false
 menu:
     main: 
