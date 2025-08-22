@@ -15,7 +15,7 @@ links:
     website: https://ksroido.art/
     image: https://cdn.jsdelivr.net/gh/ksroido/avatar@main/avatar.png
   - title: 三咲智子 Kevin Deng
-    description: 小三哥哥! | Gen Z & Full Stack Developer 🏳️‍🌈
+    description: zizi哥哥! | Gen Z & Full Stack Developer 🏳️‍🌈
     website: https://xlog.sxzz.moe/
     image: https://avatars.githubusercontent.com/u/6481596?v=4
   - title: KumaTea Blog
