@@ -11,11 +11,11 @@ links:
     website: https://oreki.cool/
     image: https://cdn.bonjour.bio/2094/2024-08-01_00-07-50.jpeg
   - title: 冷罗KS
-    description: 是网安大手子哥哥! | 爱音乐 爱生活 爱自己
+    description: 是网安大手子哥哥!
     website: https://ksroido.art/
     image: https://cdn.jsdelivr.net/gh/ksroido/avatar@main/avatar.png
   - title: 三咲智子 Kevin Deng
-    description: zizi哥哥! | Gen Z & Full Stack Developer 🏳️‍🌈
+    description: zìzǐ哥哥!
     website: https://xlog.sxzz.moe/
     image: https://avatars.githubusercontent.com/u/6481596?v=4
   - title: KumaTea Blog
@@ -39,11 +39,11 @@ links:
     website: https://mou.best/
     image: https://avatars.githubusercontent.com/u/54032212?v=4
   - title: 炸鸡店🍗
-    description: 拥抱存在主义危机
+    description: 想吃炸鸡...
     website: https://blog.lind0.space/
     image: https://avatars.githubusercontent.com/u/19368368?v=4
   - title: IcyBlog
-    description: 蓝冰 | IcyBlog Share My Life
+    description: 蓝冰！
     website: https://blog.icybit.cn/
     image: https://q.qlogo.cn/qqapp/102131907/2DC08A0B87B42FC467242BED25261546/100
 license: false
