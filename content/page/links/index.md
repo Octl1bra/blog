@@ -31,9 +31,9 @@ links:
     website: https://www.mengxiblog.top/
     image: https://cn-sh.static.nextsay.cn/IMAGE/avatar/zhunote.jpg
   - title: 自在废物
-    description: 长野！
-    website: https://rabithua.club/
-    image: https://avatars.githubusercontent.com/u/34543831?v=4
+    description: 长野！事业！摄影！大厨！
+    website: https://zzfw.cc/
+    image: https://public.zzfw.cc/rabithua/rabithua.svg
   - title: XiaoMouz
     description: 小莫叔叔！
     website: https://mou.best/
