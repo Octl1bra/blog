@@ -5,7 +5,7 @@ links:
   - title: XCちゃん
     description: 小男友...嘿嘿...
     website: https://spacexc.net
-    image: https://avatars.githubusercontent.com/u/60663465?v=4
+    image: https://spacexc.net/logo.png
   - title: Oreki
     description: 0rek1
     website: https://oreki.cool/
