@@ -29,7 +29,7 @@ links:
   - title: 朱先森的笔记
     description: 很酷的小男生
     website: https://www.mengxiblog.top/
-    image: https://cn-sh.static.nextsay.cn/IMAGE/avatar/zhunote.jpg
+    image: https://img-cn.static.isla.fan/2025/10/19/68f4824b7c228.png
   - title: 自在废物
     description: 长野！事业！摄影！大厨！
     website: https://zzfw.cc/
